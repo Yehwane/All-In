@@ -32,6 +32,6 @@ class Point {
 };
 int main () {
     Point instance = Point (5.5, 6.5);
-    cout << instance.distance(Point (7.5, 2.5)) << endl;
+    cout << instance.distance(Point (7.5, 3.5)) << endl;
     return 0;
 }
